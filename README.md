@@ -1,4 +1,4 @@
-# ETF-to-BTC Price Sync
+# BTC-to-ETF Price Sync
 
 A real-time dashboard for cryptocurrency traders that tracks the "Fair Market Value" of Bitcoin ETFs (IBIT, FBTC, Grayscale Mini) based on live BTC spot prices. It includes a Limit Order Calculator to help traders execute precise entries.
 
